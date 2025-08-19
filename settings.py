@@ -1,7 +1,7 @@
 # settings.py
 class Settings:
-    WIDTH = 600
-    HEIGHT = 400
+    WIDTH = 1920
+    HEIGHT = 1080
     CELL_SIZE = 20
     FPS = 60
     COLORS = {
